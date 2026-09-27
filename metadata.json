@@ -1,0 +1,6 @@
+{
+  "name": "RaasUtsav - Ahmedabad & Gandhinagar Navratri Garba 2025",
+  "description": "Divine 9 Nights of Royal Raas & Traditional Garba. Reserve verified digital passes, lawn tickets, Google Maps venue navigation, and BookMyShow & District app links across Ahmedabad and Gandhinagar.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
